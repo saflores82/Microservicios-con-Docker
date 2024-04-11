@@ -17,5 +17,8 @@ Dar roles al EC2 y politica SNSFullAcces
 
 Sudo docker compose up
 
+Debemos abrir los puertos 80, 8080 y 3306
+
 Acceder al Formulario y probar para recibir el mensaje
 
+Para poder clonar este repositorio debemos elegir HTTPS - Clonar repositorio
